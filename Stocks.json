@@ -1,0 +1,21 @@
+{
+	"SBIN": [
+		{
+			"numOfShares": 50,
+			"pricePerShare": 400
+		}
+	],
+	"HDFC": [
+		{
+		    "numOfShares": 500,
+			"pricePerShare": 1400
+			
+		}
+	],
+	"LT": [
+		{
+		 "numOfShares": 100,
+		 "pricePerShare": 1500	
+		}
+	]
+}

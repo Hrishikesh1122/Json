@@ -1,0 +1,10 @@
+package com.hrishikesh.json1.Assignment2;
+
+public class StockManager {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
